@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/todipratik/open-event-ios.svg?branch=master)](https://travis-ci.org/todipratik/open-event-ios)
+[![Build Status](https://travis-ci.org/todipratik/open-event-ios.svg?branch=travis)](https://travis-ci.org/todipratik/open-event-ios)
 
 # open-event-ios
 iOS app for Open Event
