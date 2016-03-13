@@ -1,3 +1,5 @@
+[![Travis](https://img.shields.io/travis/todipratik/open-event-ios.svg)](https://travis-ci.org/todipratik/open-event-ios)
+
 # open-event-ios
 iOS app for Open Event
 
