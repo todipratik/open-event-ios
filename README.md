@@ -19,4 +19,4 @@ This is an iOS app developed for FOSSAsia in mind.
 You're now ready to contribute! Before writing any code, I will highly recommend having a look at the [contribution guidelines](https://github.com/fossasia/open-event-ios/blob/master/CONTRIBUTING.md) to avoid any unnecessary unhappiness
 
 ## License
-MIT
+MIT.
