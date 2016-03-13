@@ -13,6 +13,7 @@ struct SettingsManager {
     static let keyForSession = "HasSessions"
     static let keyForRefresh = "CanRefresh"
     static let keyForMicrolocations = "HasMicrolocations"
+    static let temp = "dcs"
 
     static let favouritesLocalFileName = "faves.json"
     
